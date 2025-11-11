@@ -61,3 +61,7 @@ Training logs will be saved in the __records__ folder
 python synthesize.py --ckpt_path [MODEL CHECKPOINT PATH] --output_dir [OUTPUT DIR]
 ```
 Synthesization is text-based and the content of the synthesized texts can be set inside `synthesize.py`
+
+
+## Contributions
+* This work is collaborated work with Jeihee Cho, Tong Jiao, Moukhik Misra, and Aarya Makwana
